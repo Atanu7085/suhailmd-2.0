@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/suhailmd-2
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/fe01b578f73294993cdd2.jpg" || "https://telegra.ph/file/fe01b578f73294993cdd2.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "\n*RAJ-BOT-OFC ī.am RAJ-KUMAR*\nhttps://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B" 
+global.caption = process.env.CAPTION || global.caption || "\n*RAJ-BOT-OFC ī.am RAJ-KUMAR*\n*Contact Me:- 🪀+994407122025*" 
 
 
 global.devs = "994407122025" // Developer Contact
